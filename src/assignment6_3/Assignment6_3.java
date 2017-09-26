@@ -61,7 +61,7 @@ public class Assignment6_3 {								// Class to search an Array using binary sea
 		}
 		
 		Arrays.sort(arrayN);								// Sort the array before performing binary search
-		System.out.println(" Your array is "+Arrays.toString(arrayN)+" "+ (0+9)/2); // Print the sorted Array
+		System.out.println(" Your array is "+Arrays.toString(arrayN)); // Print the sorted Array
 
 		
 		System.out.println(" Enter the number you want to search in Array :"); 	// Ask your input to enter the number to search for the Array
